@@ -1,0 +1,2 @@
+.guilds-wrapper{width:0px;border-right:8px solid rgba(107, 0, 199, 0.5);border-radius:2px;transition: .4s}
+.guilds-wrapper:hover{border-right:1px solid rgba(107, 0, 199, 0.5) ;width:70px;}

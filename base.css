@@ -5740,3 +5740,7 @@ background:rgba(0,0,0,0.7) !important;
 
 [style*="avatars/135913674538745856"] ~ .comment .username-wrapper {
     font-family: Equestria !important;}
+
+.avatar-large{
+    right:10px;
+}

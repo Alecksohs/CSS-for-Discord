@@ -1,0 +1,14 @@
+.message-group{
+    padding:10px;
+    border-color:#2b4e54;
+    border-style:none none none none;
+    border-radius:9%;
+    background: url(http://static.tumblr.com/035738ee41af2604bfdd70410834126d/gupeib7/sVdojl3fe/tumblr_static_3nw9hkn3f30g04oss0444wgow.png);
+    width: 90%;
+    -webkit-animation: 120s scroll infinite linear;
+}
+
+@-webkit-keyframes scroll{
+    100%{
+    background-position:-3000px 0px;
+}

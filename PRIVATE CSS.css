@@ -1,0 +1,33 @@
+@import url(https://tinyurl.com/y98ul5hp);
+@import url(https://tinyurl.com/ybc8tm5o);
+@import url(https://tinyurl.com/y9ek2awo);
+@import url(https://tinyurl.com/ycdgtcef);
+@import url(https://tinyurl.com/ybuqovun);
+@import url(https://tinyurl.com/yapa5uq5);
+:root {
+    --background: url(https://img00.deviantart.net/120d/i/2016/041/5/6/_reward__changeling_s_throne_room_by_vavacung-d9r7j4r.png);  /*Wallpaper. */
+	--font:	'Noto Sans', sans-serif;
+	--font-size: 16px ;
+	--text:  rgb(255, 255, 255);										/* Chat text color */
+	--msgtrans:rgba(0, 0, 0, 0.45) ;
+    --color: hsl(177, 42%, 18%);                                   /*Main Color*/     
+    --accent: hsla(220, 100%, 37%, 0.64);                                         /*Accent Color*/  	
+    --trans: rgba(0, 4, 6, 0.52);                                     /*Transparency*/   
+	--round: 50%;                                                         /*Icon Roundness*/
+    --msgblock: none;                                                  /* "none" will hide, "content" will show */
+}
+
+
+div.avatar-large {
+    background-size: auto auto;
+    width: 125px;
+    height: 125px;
+    border-radius: 6px;
+    border-width: 1px !important;
+    border-color: rgb(108, 108, 230);
+    border-style:solid;
+}
+
+.notice-2FJMB4{
+    display:none;
+}
